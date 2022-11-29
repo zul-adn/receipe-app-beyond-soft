@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//receipe-app-beyond-soft/static/css/main.1e575c53.css",
-    "main.js": "//receipe-app-beyond-soft/static/js/main.2a904ebc.js",
-    "static/js/787.28cb0dcd.chunk.js": "//receipe-app-beyond-soft/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "//receipe-app-beyond-soft/index.html",
-    "main.1e575c53.css.map": "//receipe-app-beyond-soft/static/css/main.1e575c53.css.map",
-    "main.2a904ebc.js.map": "//receipe-app-beyond-soft/static/js/main.2a904ebc.js.map",
-    "787.28cb0dcd.chunk.js.map": "//receipe-app-beyond-soft/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/receipe-app-beyond-soft/static/css/main.1e575c53.css",
+    "main.js": "/receipe-app-beyond-soft/static/js/main.e4035617.js",
+    "static/js/787.28cb0dcd.chunk.js": "/receipe-app-beyond-soft/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/receipe-app-beyond-soft/index.html",
+    "main.1e575c53.css.map": "/receipe-app-beyond-soft/static/css/main.1e575c53.css.map",
+    "main.e4035617.js.map": "/receipe-app-beyond-soft/static/js/main.e4035617.js.map",
+    "787.28cb0dcd.chunk.js.map": "/receipe-app-beyond-soft/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e575c53.css",
-    "static/js/main.2a904ebc.js"
+    "static/js/main.e4035617.js"
   ]
 }
